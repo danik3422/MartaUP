@@ -131,7 +131,7 @@
 	height: 425px;
 	width: 512px;
 	transform: translateY(-50%);
-	background-image: url(/img/decoration.svg);
+	background-image: url(../img/decoration.svg);
 	z-index: 0;
 }
 .specialised__title {
@@ -182,7 +182,7 @@
 	top: 50%;
 	height: 425px;
 	width: 512px;
-	background-image: url(/img/decoration-rev.svg);
+	background-image: url(../img/decoration-rev.svg);
 }
 
 .experience__inner {
@@ -227,7 +227,7 @@
 
 /* comment */
 .comment {
-	background-image: url(/img/second-bg.jpg);
+	background-image: url(../img/second-bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	min-height: 519px;
